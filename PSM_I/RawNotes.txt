@@ -1,0 +1,260 @@
+
+Scrum Definition.
+简而言之，Scrum 需要 Scrum Master 来营造一个这样的环境：
+1.产品负责人将复杂问题的任务整理到产品待办事项列表中。
+2.Scrum 团队在 Sprint 期间将部分任务转化为价值增量。
+3.Scrum 团队及其利益相关者检查结果，并为下一个 Sprint 进行调整。
+4.重复以上步骤。
+
+Scrum 框架有意设计得不够完善，仅定义了实施 Scrum 理论所需的部分。
+Scrum 的构建依赖于使用者的集体智慧。
+Scrum 的规则并非提供详细的操作指南，而是指导人们之间的关系和互动。
+各种流程、技术和方法都可以在框架内应用。
+Scrum 可以对现有实践进行封装，或者使其变得不再必要。
+Scrum 能够清晰地展现当前管理、环境和工作技术的相对有效性，从而进行改进。
+
+Scrum Theory
+Scrum 建立在经验主义和精益思维之上。经验主义认为知识来源于经验，并基于观察做出决策。精益思维减少浪费，专注于本质。
+Scrum 采用迭代增量式方法来优化可预测性并控制风险。Scrum 让一群拥有完成工作所需全部技能和专业知识的人员参与其中，并根据需要共享或获取这些技能。
+Scrum 将四个正式的检查和调整活动整合到一个包含活动的事件——Sprint 中。
+Scrum 的四个正式的检查和调整活动分别是：Sprint Planning（冲刺计划会议），Daily Scrum（每日站会），Sprint Review（冲刺评审会议），Sprint Retrospective（冲刺回顾会议）。
+这些活动之所以有效，是因为它们实现了 Scrum 的经验主义的三个支柱：透明性、检查和调整。
+下面是三个支柱的介绍。
+Transparency
+执行工作和接收工作的过程和成果必须对执行者和接收者都可见。
+在 Scrum 中，重要决策基于对三个正式工件状态的感知。
+透明度低的工件会导致降低价值和增加风险的决策。
+透明度使检查成为可能。缺乏透明度的检查是误导性的，也是浪费的。
+
+Inspection
+The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to
+detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence
+in the form of its five events.
+Inspection enables adaptation. Inspection without adaptation is considered pointless. Scrum events are
+designed to provoke change.
+检查
+Scrum 工件和目标达成进度必须经常且认真地进行检查，以
+发现潜在的不良偏差或问题。为了帮助进行检查，Scrum 通过
+五个事件的形式提供了节奏。
+检查促成适应。没有适应的检查是毫无意义的。Scrum 事件旨在
+促成改变。
+
+Adaptation
+If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable,
+the process being applied or the materials being produced must be adjusted. The adjustment must be
+made as soon as possible to minimize further deviation.
+Adaptation becomes more difficult when the people involved are not empowered or self-managing. A
+Scrum Team is expected to adapt the moment it learns anything new through inspection.
+适应
+如果流程的任何方面偏离可接受的范围，或者最终产品不合格，
+则必须调整正在应用的流程或正在生产的材料。必须尽快进行调整，
+以最大限度地减少进一步的偏差。
+当相关人员缺乏授权或自我管理能力时，适应就会变得更加困难。
+Scrum 团队应在通过检查了解到任何新情况后立即进行调整。
+
+
+Scrum Values 
+Successful use of Scrum depends on people becoming more proficient in living five values: Commitment, Focus, Openness, Respect, and Courage The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges. Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems. These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+Scrum 价值观
+成功运用 Scrum 取决于人们能否更熟练地践行以下五项价值观：
+承诺、专注、开放、尊重和勇气
+Scrum 团队致力于实现目标并互相支持。他们的首要关注点是
+Sprint 的工作，以尽可能地朝着这些目标取得最佳进展。Scrum 团队及其
+利益相关者对工作和挑战持开放态度。Scrum 团队成员彼此尊重，
+因为他们都是有能力、独立自主的人，并且也因此受到与他们共事的人的尊重。
+Scrum 团队成员有勇气做正确的事情，并致力于解决棘手的问题。
+这些价值观为 Scrum 团队的工作、行动和行为指明了方向。
+所做的决策、采取的步骤以及 Scrum 的使用方式都应该强化这些价值观，而不是
+削弱或破坏它们。
+Scrum 团队成员在参与 Scrum 活动和使用 Scrum 工件的过程中学习和探索这些价值观。当 Scrum 团队及其合作者践行这些价值观时，
+Scrum 的经验支柱——透明性、检查和适应性——便能真正发挥作用，
+从而建立信任。
+
+Scrum Team
+The fundamental unit of Scrum is a small team of people, a Scrum Team. The Scrum Team consists of
+one Scrum Master, one Product Owner, and Developers. Within a Scrum Team, there are no sub-teams
+or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
+Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value
+each Sprint. They are also self-managing, meaning they internally decide who does what, when, and
+how.
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within
+a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better
+and are more productive. If Scrum Teams become too large, they should consider reorganizing into
+multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the
+same Product Goal, Product Backlog, and Product Owner.
+The Scrum Team is responsible for all product-related activities from stakeholder collaboration,
+verification, maintenance, operation, experimentation, research and development, and anything else
+that might be required. They are structured and empowered by the organization to manage their own
+work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.  
+Scrum 团队
+Scrum 的基本单元是一个小型团队，即 Scrum 团队。Scrum 团队由以下人员组成：
+一名 Scrum Master、一名产品负责人和开发人员。Scrum 团队内部没有子团队或层级结构。
+它是一个凝聚力强的专业人员团队，专注于一次只完成一个目标，即产品目标。
+Scrum 团队是跨职能的，这意味着团队成员拥有在每个 Sprint 中创造价值所需的所有技能。
+他们也是自我管理的，这意味着他们内部会决定谁做什么、何时做以及如何做。
+Scrum 团队规模适中，既能保持灵活性，又能在一个 Sprint 内完成重要的工作，
+通常为 10 人或更少。总的来说，我们发现较小的团队沟通更好，
+并且效率更高。如果 Scrum 团队规模过大，则应考虑重组为多个凝聚力强的 Scrum 团队，每个团队专注于同一个产品。因此，他们应该拥有相同的产品目标、产品待办事项列表和产品负责人。
+Scrum 团队负责所有与产品相关的活动，包括与利益相关者的协作、验证、维护、运营、实验、研发以及其他任何可能需要的活动。组织赋予他们组织架构和权力，让他们能够自主管理工作。以可持续的速度进行迭代开发有助于提高 Scrum 团队的专注度和工作一致性。
+整个 Scrum 团队都有责任在每个 Sprint 中创建一个有价值、有用的增量。Scrum 定义了 Scrum 团队内部的三项具体职责：开发人员、产品负责人和 Scrum Master。
+
+Developers
+Developers are the people in the Scrum Team that are committed to creating any aspect of a usable
+Increment each Sprint.
+The specific skills needed by the Developers are often broad and will vary with the domain of work.
+However, the Developers are always accountable for:
+● Creating a plan for the Sprint, the Sprint Backlog;
+● Instilling quality by adhering to a Definition of Done;
+● Adapting their plan each day toward the Sprint Goal; and,
+● Holding each other accountable as professionals.
+开发人员
+开发人员是 Scrum 团队中负责在每个 Sprint 中创建可用增量各个方面的人员。
+开发人员所需的具体技能通常很广泛，并且会因工作领域而异。
+但是，开发人员始终对以下事项负责：
+● 制定 Sprint 计划和 Sprint 待办事项列表；
+● 通过遵循完成定义 (Definition of Done) 来确保质量；
+● 每天根据 Sprint 目标调整计划；以及
+● 作为专业人士，互相监督，确保工作质量。
+
+
+Product Owner
+The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals. 5 The Product Owner is also accountable for effective Product Backlog management, which includes: ● Developing and explicitly communicating the Product Goal; ● Creating and clearly communicating Product Backlog items; ● Ordering Product Backlog items; and, ● Ensuring that the Product Backlog is transparent, visible and understood. The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable. For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.  The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
+产品负责人
+产品负责人负责最大化 Scrum 团队工作成果的价值。具体实现方式可能因组织、Scrum 团队和个人而异。产品负责人还负责有效的产品待办事项列表管理，包括：● 制定并明确传达产品目标；● 创建并清晰传达产品待办事项；● 对产品待办事项进行排序；以及 ● 确保产品待办事项列表透明、可见且易于理解。产品负责人可以亲自完成上述工作，也可以将职责委托给其他人。无论如何，产品负责人始终承担责任。为了使产品负责人取得成功，整个组织必须尊重他们的决策。这些决策体现在产品待办事项列表的内容和排序中，并通过 Sprint 评审会议上可检查的增量进行体现。产品负责人是一个人，而不是一个委员会。产品负责人可以代表产品待办事项列表中众多利益相关者的需求。想要更改产品待办事项列表的人可以通过尝试说服产品负责人来实现。
+
+Scrum Master
+The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization. The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework. Scrum Masters are true leaders who serve the Scrum Team and the larger organization. The Scrum Master serves the Scrum Team in several ways, including: ● Coaching the team members in self-management and cross-functionality; ● Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done; ● Causing the removal of impediments to the Scrum Team’s progress; and, ● Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox. The Scrum Master serves the Product Owner in several ways, including: 6 ● Helping find techniques for effective Product Goal definition and Product Backlog management; ● Helping the Scrum Team understand the need for clear and concise Product Backlog items; ● Helping establish empirical product planning for a complex environment; and, ● Facilitating stakeholder collaboration as requested or needed. The Scrum Master serves the organization in several ways, including: ● Leading, training, and coaching the organization in its Scrum adoption; ● Planning and advising Scrum implementations within the organization;  ● Helping employees and stakeholders understand and enact an empirical approach for complex work; and, ● Removing barriers between stakeholders and Scrum Teams. 
+Scrum Master
+Scrum Master 负责按照 Scrum 指南中的定义建立 Scrum 流程。他们通过以下方式实现这一目标：
+帮助 Scrum 团队和组织内的每个人理解 Scrum 的理论和实践。
+Scrum Master 负责 Scrum 团队的效率。他们通过以下方式实现这一目标：
+帮助 Scrum 团队在 Scrum 框架内改进其实践。
+Scrum Master 是真正的领导者，他们服务于 Scrum 团队和整个组织。
+Scrum Master 通过以下几种方式服务于 Scrum 团队：
+● 指导团队成员进行自我管理和跨职能协作；
+● 帮助 Scrum 团队专注于创建符合“完成定义”的高价值增量；
+● 消除 Scrum 团队进展中的障碍；以及
+● 确保所有 Scrum 活动都能顺利进行，并且积极有效，在规定的时间范围内完成。
+Scrum Master 通过多种方式为产品负责人提供服务，包括：
+● 协助寻找有效定义产品目标和管理产品待办事项的方法；
+● 协助 Scrum 团队理解清晰简洁的产品待办事项的重要性；
+● 协助在复杂环境中建立基于经验的产品规划；以及
+● 根据要求或需要促进利益相关者的协作。
+Scrum Master 通过多种方式为组织提供服务，包括：
+● 领导、培训和指导组织采用 Scrum；
+● 规划和指导组织内部的 Scrum 实施；
+● 帮助员工和利益相关者理解并实施针对复杂工作的实证方法；以及
+● 消除利益相关者和 Scrum 团队之间的障碍。
+
+Scrum Events
+The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.  Optimally, all events are held at the same time and place to reduce complexity.
+Scrum 事件
+Sprint 是所有其他事件的容器。Scrum 中的每个事件都是检查和调整 Scrum 工件的正式机会。这些事件经过专门设计，旨在实现所需的透明度。
+未能按规定执行任何事件都会导致错失检查和调整的机会。Scrum 中使用事件是为了建立规律性，并最大限度地减少 Scrum 中未定义的会议。
+理想情况下，所有事件都应在同一时间和地点举行，以降低复杂性。
+
+The Sprint
+Sprints are the heartbeat of Scrum, where ideas are turned into value.
+They are fixed length events of one month or less to create consistency. A new Sprint starts immediately
+after the conclusion of the previous Sprint.
+All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint
+Review, and Sprint Retrospective, happen within Sprints.
+During the Sprint:
+● No changes are made that would endanger the Sprint Goal;
+● Quality does not decrease;
+● The Product Backlog is refined as needed; and,
+● Scope may be clarified and renegotiated with the Product Owner as more is learned.
+Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at
+least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid,
+complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short
+project.
+Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While
+proven useful, these do not replace the importance of empiricism. In complex environments, what will
+happen is unknown. Only what has already happened may be used for forward-looking decision making.
+A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the
+authority to cancel the Sprint.
+迭代周期（Sprint）
+迭代周期是 Scrum 的核心，它将想法转化为价值。
+为了保持一致性，迭代周期是固定的，通常为一个月或更短。新的迭代周期会在前一个迭代周期结束后立即开始。
+所有实现产品目标所需的工作，包括迭代计划会议、每日站会、迭代评审会议和迭代回顾会议，都在迭代周期内完成。
+在迭代周期内：
+● 不会进行任何可能危及迭代目标的更改；
+● 不会降低质量；
+● 根据需要完善产品待办事项列表；
+● 随着了解更多信息，可以与产品负责人澄清和重新协商范围。
+迭代周期通过确保至少每月检查和调整产品目标的进展情况，从而实现可预测性。
+如果迭代周期过长，迭代目标可能会失效，复杂性可能会增加，风险也可能会上升。缩短迭代周期可以产生更多的学习周期，并将成本和工作量风险限制在更短的时间范围内。每个迭代周期都可以被视为一个短期项目。
+目前有多种方法可以预测进度，例如燃尽图、燃起图或累积流量图。虽然这些方法已被证明有效，但它们并不能取代经验的重要性。在复杂的环境中，未来会发生什么是未知的。只有已经发生的事情才能用于前瞻性决策。
+如果迭代目标过时，则可以取消迭代。只有产品负责人有权取消迭代。
+
+Sprint Planning
+Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice. Sprint Planning addresses the following topics:  Topic One: Why is this Sprint valuable? The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning. Topic Two: What can be Done this Sprint? Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence. Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts. Topic Three: How will the chosen work get done? For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value. The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog. Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter. 
+迭代计划会议通过规划迭代周期内要完成的工作来启动迭代。最终的计划由整个 Scrum 团队协作制定。产品负责人确保与会者做好准备，讨论最重要的产品待办事项以及它们如何与产品目标相对应。Scrum 团队还可以邀请其他人员参加迭代计划会议，提供建议。迭代计划会议涵盖以下主题：主题一：本次迭代的价值何在？产品负责人提出如何在当前迭代中提升产品的价值和实用性。然后，整个 Scrum 团队协作定义一个迭代目标，阐明本次迭代对利益相关者的价值所在。迭代目标必须在迭代计划会议结束前最终确定。主题二：本次迭代可以完成哪些工作？开发人员通过与产品负责人讨论，从产品待办事项中选择要纳入当前迭代的条目。Scrum 团队可能会在此过程中对这些条目进行细化，从而加深理解并增强信心。确定一个迭代周期内可以完成的工作量可能具有挑战性。然而，开发人员越了解他们过去的表现、即将到来的工作能力以及完成标准，他们就越能自信地预测冲刺进度。主题三：如何完成选定的工作？对于每个选定的产品待办事项，开发人员会计划创建符合完成标准的增量所需的工作。这通常是通过将产品待办事项分解为一天或更短时间内完成的较小工作项来实现的。具体如何分解完全由开发人员自行决定。没有人可以告诉他们如何将产品待办事项转化为有价值的增量。冲刺目标、为冲刺选择的产品待办事项以及交付计划共同构成了冲刺待办事项列表。冲刺计划会议的时间限制为最多八小时（针对一个月的冲刺）。对于较短的冲刺，会议时间通常也会更短。
+
+Daily Scrum
+The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work. The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers. The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management. Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.  The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint’s work.  
+每日站会的目的是检查冲刺目标的进展情况，并根据需要调整冲刺待办事项列表，从而调整即将开展的工作计划。每日站会是 Scrum 团队开发人员的 15 分钟会议。为了降低复杂性，它在每个冲刺工作日的同一时间和地点举行。如果产品负责人或 Scrum Master 正在积极处理冲刺待办事项列表中的项目，他们也可以作为开发人员参加。开发人员可以选择任何他们喜欢的结构和技巧，只要他们的每日站会能够聚焦于冲刺目标的进展情况，并为第二天的工作制定可执行的计划即可。这有助于集中精力并提高自我管理能力。每日站会可以改善沟通、发现障碍、促进快速决策，从而减少其他会议的必要性。每日站会并非开发人员调整计划的唯一时机。他们通常会在一天中多次开会，就如何调整或重新计划冲刺剩余的工作进行更详细的讨论。
+
+Sprint Review
+The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed. During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next. The Product Backlog may also be adjusted to meet new opportunities. The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation. The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+Sprint评审会议的目的是检查Sprint的成果并确定未来的调整方向。Scrum团队会向关键利益相关者展示他们的工作成果，并讨论产品目标的进展情况。会议期间，Scrum团队和利益相关者会回顾Sprint中完成的工作以及环境的变化。基于这些信息，与会者会协作制定下一步计划。产品待办事项列表也可能会进行调整，以抓住新的机遇。Sprint评审会议是一个工作会议，Scrum团队应避免将其限制为演示。Sprint评审会议是Sprint的倒数第二个会议，对于一个月的Sprint，会议时间最多为四个小时。对于较短的Sprint，会议时间通常会更短。
+
+Sprint Retrospective
+The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness. The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work. Assumptions that led them astray are identified and their origins explored. The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved. The Scrum Team identifies the most helpful changes to improve its effectiveness. The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint. The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a onemonth Sprint. For shorter Sprints, the event is usually shorter.
+迭代回顾的目的是规划如何提高质量和效率。
+Scrum 团队会检查上一个迭代在人员、交互、流程、工具及其完成定义方面的进展情况。检查的内容通常会因工作领域而异。
+团队会找出导致他们误入歧途的假设，并探究其根源。Scrum 团队会讨论迭代期间哪些方面做得好，遇到了哪些问题，以及这些问题是如何解决（或未能解决）的。
+Scrum 团队会确定最有助于提高效率的改进措施。最具影响力的改进措施会尽快实施。它们甚至可以添加到下一个迭代的待办事项列表中。
+迭代回顾标志着迭代的结束。对于一个月的迭代，迭代回顾的时间限制为最多三个小时。对于较短的迭代，会议时间通常会更短。
+
+Scrum Artifacts
+Scrum’s artifacts represent work or value. They are designed to maximize transparency of key information. Thus, everyone inspecting them has the same basis for adaptation. Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured: ● For the Product Backlog it is the Product Goal. ● For the Sprint Backlog it is the Sprint Goal. ● For the Increment it is the Definition of Done. These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
+Scrum 的工件代表工作或价值。它们的设计旨在最大限度地提高关键信息的透明度。因此，所有查看这些工件的人都拥有相同的调整基础。每个工件都包含一项承诺，以确保其提供的信息能够增强透明度并聚焦重点，从而衡量进展：
+● 对于产品待办事项列表，其目标是产品目标。
+● 对于迭代待办事项列表，其目标是迭代目标。
+● 对于增量，其目标是完成定义。
+这些承诺旨在强化 Scrum 团队及其利益相关者的经验主义和 Scrum 价值观。
+
+
+Product Backlog
+The Product Backlog is an emergent, ordered list of what is needed to improve the product.  It is the single source of work undertaken by the Scrum Team. 
+Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. 
+Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
+The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
+产品待办事项列表是一个不断更新、有序的清单，列出了改进产品所需的一切。它是 Scrum 团队工作的唯一来源。
+Scrum 团队可以在一个 Sprint 内完成的产品待办事项，在 Sprint 计划会议上即可进行选择。通常，这些待办事项在经过细化活动后才能达到这种透明度。
+产品待办事项细化是指将产品待办事项分解并进一步定义成更小、更精确的条目。这是一项持续进行的活动，旨在添加诸如描述、顺序和规模等细节。属性通常会因工作领域而异。
+负责执行工作的开发人员负责确定工作规模。产品负责人可以通过帮助开发人员理解和选择权衡取舍来影响他们的决策。
+
+Commitment: Product Goal
+The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.  A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract.  The Product Goal is the long-term objective for the Scrum Team. They must fulfill (or abandon) one objective before taking on the next. 
+承诺：产品目标
+产品目标描述了产品的未来状态，可以作为Scrum团队规划的目标。产品目标存在于产品待办事项列表中。产品待办事项列表的其余部分则逐步明确“什么”能够实现产品目标。
+产品是传递价值的载体。它有明确的边界、已知的利益相关者以及定义清晰的用户或客户。产品可以是服务、实体产品，或者更抽象的事物。
+产品目标是Scrum团队的长期目标。他们必须在承担下一个目标之前完成（或放弃）当前的目标。
+
+Sprint Backlog
+The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how). The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum.
+冲刺待办列表由冲刺目标（为什么）、为冲刺选定的产品待办事项集合（做什么）以及实现增量的可执行计划（如何做）组成。冲刺待办列表是由开发人员为开发人员制定的计划。它是开发人员计划在冲刺期间完成的工作的高度可见的实时概览，以实现冲刺目标。因此，随着在冲刺过程中获得更多信息，冲刺待办列表会不断更新。它应包含足够的细节，以便他们在每日站会上检查自己的进展情况。
+
+Commitment: Sprint Goal
+The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives. The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog.  As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal. 
+承诺：冲刺目标
+冲刺目标是冲刺的唯一目标。虽然冲刺目标是开发团队的承诺，但在实现目标所需的具体工作方面，它提供了灵活性。冲刺目标还创造了连贯性和专注性，鼓励敏捷团队协同工作，而不是各自为政。
+冲刺目标在冲刺规划活动中创建，然后添加到冲刺待办事项列表中。在冲刺期间，开发团队在工作时会牢记冲刺目标。如果实际工作与预期不同，他们会与产品负责人合作，在不影响冲刺目标的前提下协商冲刺待办事项列表的范围。
+
+Increment
+An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable. 11 Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.   Work cannot be considered part of an Increment unless it meets the Definition of Done.
+增量
+增量是实现产品目标的具体步骤。每个增量都是对之前所有增量的补充，并经过彻底验证，确保所有增量能够协同工作。为了提供价值，增量必须是可用的。
+在一个冲刺期间可以创建多个增量。增量的总和将在冲刺评审中展示，从而支持经验主义。然而，增量也可以在冲刺结束前交付给利益相关者。冲刺评审绝不应被视为释放价值的门槛。
+除非工作符合完成定义，否则不能视为增量的一部分。
+
+Commitment: Definition of Done
+The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.  The moment a Product Backlog item meets the Definition of Done, an Increment is born. The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.  If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.  The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done. 
+完成的定义是对增量状态的一种正式描述，当增量符合产品所需的质量标准时，它就被视为完成。当产品待办事项符合完成的定义时，一个增量就产生了。完成的定义通过提供共同的理解，使每个人都清楚增量中哪些工作已经完成，从而创造了透明度。如果产品待办事项未达到完成的定义，则不能发布，甚至不能在冲刺评审中展示。相反，它将返回产品待办事项，以供未来考虑。
+
+End Note
+Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
+Scrum 是免费的，并在本指南中提供。Scrum 框架如本指南所述，是不可更改的。虽然可以只使用 Scrum 的部分内容，但其结果不是 Scrum。Scrum 只能以整体形式存在，并且可以很好地作为其他技术、方法论和实践的容器。
